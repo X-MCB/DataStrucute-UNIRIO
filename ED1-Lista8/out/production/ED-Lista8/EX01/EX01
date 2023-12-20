@@ -1,0 +1,20 @@
+EXERCICIO 1
+
+HEAP: Um heap é uma estrutura de dados que organiza seus elementos em uma árvore( normalmente uma árvore binária)
+na qual cada nó pai possui um valor específico em relação aos seus nós filhos.
+Por exemplo, dependendo da configuração, podemos ter uma heap minima, na qual todo pai é menor ou igual aos seus filhos,
+ou uma heap maxima, onde cada pai é maior ou igual aos seus filhos.
+
+Exemplo: Fila de prioridade, na qual podemos implementar uma heap minima ou uma heap maxima
+isso permite que o elemento de maior prioridade seja acessado rapidamente.
+
+Exemplo de HEAP MAXIMA:
+
+        70
+      /    \
+    60      40
+   /  \    /   \
+  30  10  35    20
+
+Nesse, caso, acessar o maior elemento fica fácil pois só precisamos olhar o topo. O inverso se aplica a heap minima.
+
