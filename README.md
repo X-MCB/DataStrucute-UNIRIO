@@ -1,5 +1,5 @@
 # Estrutura-de-Dados-UNIRIO
-Exercise lists for the Data Structure class on UNIRIO. Covering subjects such as stacks, files, lists, binary trees, heaps and others.
+Exercise lists for the Data Structure class. Covering subjects such as stacks, files, lists, binary trees, heaps and others.
 
 List 1 - Stacks
 
